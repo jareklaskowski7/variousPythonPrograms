@@ -1,4 +1,4 @@
-#
+# Anagrams
 
 def checkAnagrams(s1, s2):
     areAnagrams = True
